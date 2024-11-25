@@ -8,7 +8,7 @@ Java 17 or higher
 Maven 3.x
 
 # clone the project using
-git clone https://github.com/jayantsinha1001/SauceLab.git
+git clone https://github.com/jayantsinha1001/API_Automation.git
 
 # Rebuild the project
 # clear all the IDE CACHE
