@@ -1,0 +1,5 @@
+# Created at 2024-11-24T19:12:26.081
+Boot Manifest-JAR contains absolute paths in classpath 'E:\wysa\API_AUTOMATION\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
